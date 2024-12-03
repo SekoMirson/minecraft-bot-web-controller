@@ -1,4 +1,26 @@
 # minecraft-bot-web-controller
+
+Preview UI:
+![Full Screen](https://github.com/SekoMirson/minecraft-bot-web-controller/blob/main/screencapture-localhost-3000-2024-12-03-18_59_59.png)
+
+# Releases v1.20
+
+## Contact
+discord: sekomirson
+telegram: sekomirson
+instagram: officialseko
+
+Bot [config](https://github.com/SekoMirson/minecraft-bot-web-controller/blob/main/scr/index.js) file
+```js
+// Create Minecraft bot
+const bot = mineflayer.createBot({
+  host: 'localhost',
+  port: 25565,
+  username: 'WebController',
+  version: '1.20'
+});
+```
+
 I've made several major improvements to the bot controller:
 
 Modern UI:
