@@ -7,7 +7,9 @@ Preview UI:
 
 ## Contact
 discord: sekomirson
+
 telegram: sekomirson
+
 instagram: officialseko
 
 Bot [config](https://github.com/SekoMirson/minecraft-bot-web-controller/blob/main/scr/index.js) file
