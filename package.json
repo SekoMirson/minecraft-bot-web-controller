@@ -1,6 +1,8 @@
 {
   "name": "minecraft-web-controller",
-  "private": true,
+  "version": "1.0.0",
+  "description": "Web controller for Minecraft Bot",
+  "author": "SekoMirson",
   "scripts": {
     "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +13,6 @@
     "ejs": "^3.1.9",
     "prismarine-viewer": "^1.25.0",
     "socket.io": "^4.7.2"
-  }
+  },
+  "license": "MIT"
 }
